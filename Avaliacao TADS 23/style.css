@@ -1,0 +1,61 @@
+.cabecalho{
+    float: left;
+    margin: auto;
+    font-size: 100px;
+    color:rgb(65,31,9);
+}
+.card{
+    display: flex;
+    justify-content: center;
+    color:rgb(65,31,9);
+    align-items: center;
+    font-size: 20px;
+    
+}
+.card-cont{
+    display: flex;
+    text-align: right;
+    float: right;
+    margin: auto;
+    color:rgb(65,31,9);
+   
+}
+
+.card-2{
+    display: flex;
+    margin: auto;
+    justify-content: center;
+    align-items: center;
+    color:rgb(65,31,9);
+
+}
+
+.img{
+    display: flex;
+    width: 100px;
+    margin: auto;
+    position: relative;
+    text-align: center;
+    width: 50%;
+    justify-content: center;
+}
+.card-cont2{
+    display: flex;
+    color: rgb(223,28,28);
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+}
+.card-3{
+    color:rgb(65,31,9);
+    text-align: center;
+}
+.img-2{
+    display: block;
+    justify-items: auto;
+}
+.body{
+    color: rgb(255,194,52);
+}
+/*color: rgb(223,28,28);
+color: rgb(255,194,52);
